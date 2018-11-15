@@ -1,0 +1,14 @@
+## Interface: 80000
+## Title: target123
+## OptionalDeps: myAddOns
+## SavedVariables: savedConfig
+## SavedVariables: useArenaDefault
+## target123.xml
+
+Libs\LibStub\LibStub.lua
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Gui\TabContainerBuilder.lua
+Gui\BuildMainFrameTarget123.lua
+DefaultConfig.lua
+MacroBuilder.lua
+Main.lua
